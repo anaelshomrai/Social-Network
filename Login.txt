@@ -1,0 +1,51 @@
+///////////////////
+Admins:
+///////////////////
+
+User-Name: anael
+Password: 123456
+Email: ashomrai@gmail.com
+
+User-Name: nadav
+Password: 123456
+Email:nd.zalman@gmail.com
+
+User-Name: idan
+Password: 123456
+Email:idan@gmail.com
+
+User-Name: naor
+Password: 123456
+Email:naor@gmail.com
+
+///////////////////
+Users:
+///////////////////
+
+User-Name: eyal
+Password: 123456
+Email: Eyal_Levi@gmail.com
+
+User-Name: dana
+Password: 123456
+Email: Dana_Cohen@gmail.com
+
+User-Name: shir
+Password: 123456
+Email: Shir_Shimer@gmail.com
+
+
+///////////////////
+Premium Users:
+///////////////////
+
+User-Name: rotem
+Password: 123456
+Email: Rotem_Alon@gmail.com
+
+User-Name: dana
+Password: 123456
+Email: Yoni_Granit@gmail.com
+
+
+
