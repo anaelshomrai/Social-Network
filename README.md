@@ -1,4 +1,4 @@
 # Social-Network
 The app simulates a social network in C#.
 <br><br>
-<img src="https://s10.postimg.org/rbspxauw9/Social_Network.png" alt="" width:100px;>
+<img src="https://s10.postimg.org/rbspxauw9/Social_Network.png" alt="" height:100px;>
